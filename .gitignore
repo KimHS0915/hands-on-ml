@@ -1,6 +1,9 @@
 # Datasets
 datasets/
 
+# Images
+images/
+
 # JupyterNotebooks 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
