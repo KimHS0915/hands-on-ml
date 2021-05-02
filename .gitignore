@@ -1,5 +1,6 @@
 # Datasets
 datasets/
+*.data
 
 # Images
 images/
