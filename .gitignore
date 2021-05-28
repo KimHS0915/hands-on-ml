@@ -1,3 +1,11 @@
+# Tensorboard
+my_logs
+
+# Model save
+checkpoint
+weights.ckpt*
+*.h5
+
 # Datasets
 datasets/
 *.data
