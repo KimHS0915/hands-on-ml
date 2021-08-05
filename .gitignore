@@ -4,6 +4,7 @@ my_logs
 # Model save
 checkpoint
 weights.ckpt*
+*.ckpt
 *.h5
 
 # Datasets
