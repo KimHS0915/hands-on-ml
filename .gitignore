@@ -1,3 +1,8 @@
+# Protocol Buffers
+*.proto
+*.desc
+*pb2.py
+
 # TFRecord
 *.tfrecord
 
