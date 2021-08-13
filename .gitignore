@@ -1,3 +1,6 @@
+# TFRecord
+*.tfrecord
+
 # Tensorboard
 my_logs
 
