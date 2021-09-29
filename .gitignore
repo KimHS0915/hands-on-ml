@@ -14,10 +14,12 @@ checkpoint
 weights.ckpt*
 *.ckpt
 *.h5
+translator/
 
 # Datasets
 datasets/
 *.data
+ted_hrlr*
 
 # Images
 images/
